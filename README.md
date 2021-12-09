@@ -26,7 +26,7 @@ Before starting the tool, make sure to:
 - [Generate app password](https://myaccount.google.com/u/2/apppasswords) (for more help, see this [tutorial](https://ljmocic.medium.com/send-an-email-using-python-and-gmail-4ebc980eae9b))
 
 Then, add to the code "pastemonitor.py":
-- Email credentials ("email", "emailSender")
+- Email credentials ("email", "password")
 - Email alert recipient ("receiver")
 - Working directory path ("pathDirectory" - Example: "/home/user/PASTEBIN/")
 
