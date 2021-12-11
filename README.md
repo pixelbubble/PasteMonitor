@@ -15,7 +15,6 @@ You can setup a wordlist and be alerted by email when you have a match
 If your paste is no longer online, you can find it on your computer/server via the ID of your paste (here ID is "WJq2YxPg")
 ![image](https://user-images.githubusercontent.com/75697623/145396434-d3db83c0-4c43-4c6f-a8e1-9a57f063db25.png)
 
-
 ## Before start
 
 Before starting the tool, make sure to:
@@ -28,7 +27,9 @@ Before starting the tool, make sure to:
 Then, add to the code "pastemonitor.py":
 - Email credentials ("email", "password")
 - Email alert recipient ("receiver")
-- Working directory path ("pathDirectory" - Example: "/home/user/PASTEBIN/")
+
+## Wordlist
+In the "wordlist.txt" file, add your keywords line by line.
 
 ## Prerequisite
 
